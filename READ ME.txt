@@ -1,0 +1,7 @@
+libraries required -
+opencv-python
+numpy
+mediapipe
+pygame
+
+To run the game, just open pop.py
